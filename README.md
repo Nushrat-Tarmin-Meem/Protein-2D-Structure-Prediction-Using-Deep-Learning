@@ -30,14 +30,21 @@ RefSeq Non-redundant Protein Database (RefSeq WP Acessions) Bacterial Protein Fa
 ![image](https://github.com/user-attachments/assets/f8235065-67eb-444f-953e-1e3cc080f44b)
 
 ## Model Structure:
-![image](https://github.com/user-attachments/assets/a763c1b0-07d9-41dd-adb8-4eb505eb6a2e)
+![image](https://github.com/user-attachments/assets/fec0f1c1-687e-45f8-8dba-5192c37419b1)
 
 ## GIF Showing the Weight Updates at Each Epoch and Layer:
+![layer1_weights](https://github.com/user-attachments/assets/9a2b1c1e-b651-453b-8785-60784ba82a40)
+![layer2_weights](https://github.com/user-attachments/assets/47dd9364-99f6-4816-8cd4-78e0707da961)
+![layer3_weights](https://github.com/user-attachments/assets/7f9765ec-1269-4870-b08c-1c72872b2148)
+![layer5_weights](https://github.com/user-attachments/assets/9d014940-5ac7-4177-a648-87148e725678)
+![layer6_weights](https://github.com/user-attachments/assets/9f99776f-99d1-4c1e-9449-88e1f09814c9)
+![layer8_weights](https://github.com/user-attachments/assets/e75a42f5-c9e8-4c5c-bed4-14f7d2ccaa64)
 
-## Loss Curve:
-
-## Accuracy Curve:
+## Loss and Accuracy Curve:
+![image](https://github.com/user-attachments/assets/4adf3b66-f18b-4c48-b2b2-c1c85af9e0a6)
 
 ## Confusion Matrix:
+![image](https://github.com/user-attachments/assets/72a2d558-9c92-4e5e-ab22-55434358cd3e)
 
 ## Evaluation Metrics:
+![image](https://github.com/user-attachments/assets/c2b044d8-616c-45ab-b8ac-b193ffbf7ff3)
