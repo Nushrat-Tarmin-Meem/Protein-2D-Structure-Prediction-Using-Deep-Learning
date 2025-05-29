@@ -23,7 +23,7 @@ RefSeq Non-redundant Protein Database (RefSeq WP Acessions) Bacterial Protein Fa
   <tr><th>Padding Sequences and Encoding Labels</th></tr>
   <tr><td><img align="left" alt="" height="250" src="https://github.com/user-attachments/assets/dd233d49-e4c1-484a-9799-12a3b110dafa"></td></tr>
   <tr><th>Bar Chart of Class Distribution (One-Hot Encoded Labels)</th></tr>
-  <tr><td><img align="left" alt="" height="400" src="https://github.com/user-attachments/assets/616f5353-897b-4706-9cc5-7e494f39622d"></td></tr>
+  <tr><td><img align="left" alt="" height="420" src="https://github.com/user-attachments/assets/616f5353-897b-4706-9cc5-7e494f39622d"></td></tr>
 </table>
 
 ## Train-Test Splitting:
